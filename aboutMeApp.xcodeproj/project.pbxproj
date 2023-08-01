@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		BDD5C15A2A729B8000EC3ECD /* aboutMeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = aboutMeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDD5C15D2A729B8000EC3ECD /* aboutMeAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aboutMeAppApp.swift; sourceTree = "<group>"; };
-		BDD5C15F2A729B8000EC3ECD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BDD5C15F2A729B8000EC3ECD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; usesTabs = 0; };
 		BDD5C1612A729B8100EC3ECD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDD5C1642A729B8100EC3ECD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

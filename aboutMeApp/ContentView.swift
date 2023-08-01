@@ -7,15 +7,23 @@
 
 import SwiftUI
 
+//Comment
+
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Image(/*@START_MENU_TOKEN@*/"Image Name"/*@END_MENU_TOKEN@*/)
+            Text("About Me")
+                .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+            Text("Celia Schreiber")
+            Button("Facts about me")
+            {
+                
+            }
+                .buttonStyle(.borderedProminent)
+                
+            
         }
-        .padding()
     }
 }
 
